@@ -3,7 +3,7 @@ const app = express();
 const PORT = 5000;
 
 const mongoose = require('mongoose')
-mongoose.connect("mongodb+srv://LeeJinwoo:abcd1234@mongopr.gxxzfq4.mongodb.net/?retryWrites=true&w=majority",
+mongoose.connect("#",
  {
     // useNewUrlPaser: true,
     // useUnifiedTofology: true,
